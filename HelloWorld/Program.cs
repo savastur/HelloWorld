@@ -1,4 +1,7 @@
-﻿namespace HelloWorld
+﻿//Sturm Savage
+//RECT 2265
+//https://github.com/savastur/HelloWorld.git
+namespace HelloWorld
 {
     internal class Program
     {
